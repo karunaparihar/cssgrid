@@ -1,0 +1,41 @@
+body{
+    border: 5px solid black;
+    height:33.7vh;
+    width:25vw;
+  
+}
+
+h1 {
+  color: navy;
+  margin-left: 30px;
+  font-size: 15px;
+}
+img{
+    margin-top:15px;
+
+}
+label{
+    font-size:25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
+}
+body{
+    margin-left:500px;
+    margin-bottom:300px;
+    margin-top:100px;
+     margin-right:200px;
+}
+.Card{
+    color:darkslateblue;
+}
+#name{
+    color : cornflowerblue;
+}
+div{
+     background-image: url(../backgroundidcard.jpg );
+}
+hr{
+        
+    color:black
+
+}
